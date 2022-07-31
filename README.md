@@ -1,9 +1,9 @@
-# Arine Takehome Project
+# AWS Lambda and API Gateway Stock Ticker API
 
 ## Installation on your local machine
 1. To be able to install this project on your local machine, please clone this project repository. 
 ```
-git clone git@github.com:alexsmaldone/arine-takehome.git
+git clone git@github.com:alexsmaldone/lambda-stock-ticker.git
 ```
 
 2. Install dependencies from the root directory.
